@@ -5,7 +5,7 @@ module.exports = {
     {
       name: 'andsomore',
       script: 'node_modules/.bin/next',
-      args: 'serve',
+      args: 'npm run serve',
       cwd: '/home/asm',
       instances: 1,
       autorestart: true,
